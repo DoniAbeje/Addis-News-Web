@@ -1,0 +1,18 @@
+.nav-link-white {
+    color: white;
+}
+
+.nav-tabs .nav-link {
+
+    border-radius: 0px;
+}
+
+a.news-card {
+    text-decoration: none;
+    color: unset;
+    transition: all .7s;
+}
+
+a.news-card:hover {
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15) !important;
+}
